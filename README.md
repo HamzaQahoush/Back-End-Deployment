@@ -12,4 +12,4 @@ create Heroku.yml at first , then
 8. gunicorn <project_Name in VS code> | to run app locally 
 9. git push origin master
 10. git push heroku master
-11. add the cofig keys in setting in the app .
+11. add the config keys in setting in the app .
