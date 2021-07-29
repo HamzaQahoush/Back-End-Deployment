@@ -1,6 +1,6 @@
 # Back-End-Deployment
 
-Heroku:
+## Heroku:
 create Heroku.yml at first , then 
 1. git init
 2. heroku apps:create <app_name>
