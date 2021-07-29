@@ -9,7 +9,7 @@ create Heroku.yml at first , then
 5. git remote add origin <repo's link from github>
 6. heroku ps
 7. heroku stack:set container
-8. gunicorn <project_Name in VS code>
+8. gunicorn <project_Name in VS code> | to run app locally 
 9. git push origin master
 10. git push heroku master
 11. add the cofig keys in setting in the app .
